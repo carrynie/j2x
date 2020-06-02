@@ -1,0 +1,16 @@
+{
+  "name": "j2x",
+  "version": "1.0.0",
+  "description": "JSON to XML or XML to JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "xml",
+    "convert"
+  ],
+  "author": "carrynie",
+  "license": "ISC"
+}
